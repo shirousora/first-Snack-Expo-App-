@@ -1,5 +1,7 @@
 # first-Snack-Expo-App-
 Easy app that sends data to Firebase.
+
+
 ![Sora](https://img.shields.io/badge/-ShirouSora-blueviolet)
 
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
